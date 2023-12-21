@@ -1,10 +1,10 @@
 
 ### 2023
 
-+ **[DSaurus/Tensor4D](https://github.com/DSaurus/Tensor4D)**: [![GitHub stars](https://img.shields.io/github/stars/DSaurus/Tensor4D.svg?style=social&label=☆)](https://github.com/DSaurus/Tensor4D)\
++ **[DSaurus/Tensor4D](https://github.com/DSaurus/Tensor4D)**: [![GitHub stars](https://img.shields.io/github/stars/DSaurus/Tensor4D.svg?style=social&label=Star)](https://github.com/DSaurus/Tensor4D)\
  ``[CVPR 2023] Tensor4D: Efficient Neural 4D Decomposition for High-fidelity Dynamic Reconstruction and Rendering``
 
-+ **[MrTornado24/Next3D](https://github.com/MrTornado24/Next3D)**: [![GitHub stars](https://img.shields.io/github/stars/MrTornado24/Next3D.svg?style=social&label=☆)](https://github.com/MrTornado24/Next3D)\
++ **[MrTornado24/Next3D](https://github.com/MrTornado24/Next3D)**: [![GitHub stars](https://img.shields.io/github/stars/MrTornado24/Next3D.svg?style=social&label=Star)](https://github.com/MrTornado24/Next3D)\
  ``[CVPR 2023] Next3D: Generative Neural Texture Rasterization for 3D-Aware Head Avatars``
 
 + **[HongwenZhang/PyMAF-X](https://github.com/HongwenZhang/PyMAF-X)**: [![GitHub stars](https://img.shields.io/github/stars/HongwenZhang/PyMAF-X.svg?style=social&label=Star)](https://github.com/HongwenZhang/PyMAF-X)\
