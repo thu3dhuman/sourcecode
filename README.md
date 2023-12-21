@@ -1,6 +1,9 @@
 
 ### 2023
 
++ **[YuelangX/AvatarMAV](https://github.com/YuelangX/AvatarMAV)**: [![GitHub stars](https://img.shields.io/github/stars/YuelangX/AvatarMAV.svg?style=social&label=Star)](https://github.com/YuelangX/AvatarMAV)\
+ ``[SIGGRAPH 2023] AvatarMAV: Fast 3D Head Avatar Reconstruction Using Motion-Aware Neural Voxels``
+
 + **[MrTornado24/DreamCraft3D](https://github.com/deepseek-ai/DreamCraft3D)**: [![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DreamCraft3D.svg?style=social&label=Star)](https://github.com/deepseek-ai/DreamCraft3D)\
  ``[arXiv 2023] DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior``
 
