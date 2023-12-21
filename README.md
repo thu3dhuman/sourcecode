@@ -1,11 +1,17 @@
 
 ### 2023
 
-+ **[YuelangX/AvatarMAV](https://github.com/YuelangX/AvatarMAV)**: [![GitHub stars](https://img.shields.io/github/stars/YuelangX/AvatarMAV.svg?style=social&label=Star)](https://github.com/YuelangX/AvatarMAV)\
- ``[SIGGRAPH 2023] AvatarMAV: Fast 3D Head Avatar Reconstruction Using Motion-Aware Neural Voxels``
++ **[YuelangX/Gaussian-Head-Avatar](https://github.com/YuelangX/Gaussian-Head-Avatar)**: [![GitHub stars](https://img.shields.io/github/stars/YuelangX/Gaussian-Head-Avatar.svg?style=social&label=Star)](https://github.com/YuelangX/Gaussian-Head-Avatar)\
+ ``[arXiv 2023] Gaussian Head Avatar: Ultra High-fidelity Head Avatar via Dynamic Gaussians``
 
 + **[MrTornado24/DreamCraft3D](https://github.com/deepseek-ai/DreamCraft3D)**: [![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DreamCraft3D.svg?style=social&label=Star)](https://github.com/deepseek-ai/DreamCraft3D)\
  ``[arXiv 2023] DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior``
+
++ **[YuelangX/LatentAvatar](https://github.com/YuelangX/LatentAvatar)**: [![GitHub stars](https://img.shields.io/github/stars/YuelangX/LatentAvatar.svg?style=social&label=Star)](https://github.com/YuelangX/LatentAvatar)\
+ ``[SIGGRAPH 2023] LatentAvatar: Learning Latent Expression Code for Expressive Neural Head Avatar``
+
++ **[YuelangX/AvatarMAV](https://github.com/YuelangX/AvatarMAV)**: [![GitHub stars](https://img.shields.io/github/stars/YuelangX/AvatarMAV.svg?style=social&label=Star)](https://github.com/YuelangX/AvatarMAV)\
+ ``[SIGGRAPH 2023] AvatarMAV: Fast 3D Head Avatar Reconstruction Using Motion-Aware Neural Voxels``
 
 + **[LizhenWangT/StyleAvatar](https://github.com/LizhenWangT/StyleAvatar)**: [![GitHub stars](https://img.shields.io/github/stars/LizhenWangT/StyleAvatar.svg?style=social&label=Star)](https://github.com/LizhenWangT/StyleAvatar)\
  ``[SIGGRAPH 2023] StyleAvatar: Real-time Photo-realistic Portrait Avatar from a Single Video``
