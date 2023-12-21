@@ -24,6 +24,10 @@
 + **[jsnln/fite](https://github.com/jsnln/fite)**: [![GitHub stars](https://img.shields.io/github/stars/jsnln/fite.svg?style=social&label=Star)](https://github.com/jsnln/fite)\
  ``[ECCV 2022] Learning Implicit Templates for Point-Based Clothed Human Modeling``
 
++ **[fengq1a0/FOF](https://github.com/fengq1a0/FOF)**: [![GitHub stars](https://img.shields.io/github/stars/fengq1a0/FOF.svg?style=social&label=Star)](https://github.com/fengq1a0/FOF)\
+ ``[NeurIPS 2022] FOF: Learning Fourier Occupancy Field for Monocular Real-time Human Reconstruction``
+
+
 ### 2021
 
 + **[ZhengZerong/PaMIR](https://github.com/ZhengZerong/PaMIR)**: [![GitHub stars](https://img.shields.io/github/stars/ZhengZerong/PaMIR.svg?style=social&label=Star)](https://github.com/ZhengZerong/PaMIR)\
