@@ -1,6 +1,9 @@
 
 ### 2023
 
++ **[MrTornado24/DreamCraft3D](https://github.com/deepseek-ai/DreamCraft3D)**: [![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DreamCraft3D.svg?style=social&label=Star)](https://github.com/deepseek-ai/DreamCraft3D)\
+ ``[arXiv 2023] DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior``
+
 + **[DSaurus/Tensor4D](https://github.com/DSaurus/Tensor4D)**: [![GitHub stars](https://img.shields.io/github/stars/DSaurus/Tensor4D.svg?style=social&label=Star)](https://github.com/DSaurus/Tensor4D)\
  ``[CVPR 2023] Tensor4D: Efficient Neural 4D Decomposition for High-fidelity Dynamic Reconstruction and Rendering``
 
