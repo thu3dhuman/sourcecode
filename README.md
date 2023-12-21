@@ -24,6 +24,9 @@
 + **[jsnln/fite](https://github.com/jsnln/fite)**: [![GitHub stars](https://img.shields.io/github/stars/jsnln/fite.svg?style=social&label=Star)](https://github.com/jsnln/fite)\
  ``[ECCV 2022] Learning Implicit Templates for Point-Based Clothed Human Modeling``
 
++ **[Dw1010/IntagHand](https://github.com/Dw1010/IntagHand)**: [![GitHub stars](https://img.shields.io/github/stars/Dw1010/IntagHand.svg?style=social&label=Star)](https://github.com/Dw1010/IntagHand)\
+ ``[CVPR 2022] Interacting Attention Graph for Single Image Two-Hand Reconstruction``
+
 + **[fengq1a0/FOF](https://github.com/fengq1a0/FOF)**: [![GitHub stars](https://img.shields.io/github/stars/fengq1a0/FOF.svg?style=social&label=Star)](https://github.com/fengq1a0/FOF)\
  ``[NeurIPS 2022] FOF: Learning Fourier Occupancy Field for Monocular Real-time Human Reconstruction``
 
