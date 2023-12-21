@@ -36,6 +36,9 @@
 + **[DSaurus/DeepMultiCap](https://github.com/DSaurus/DeepMultiCap)**: [![GitHub stars](https://img.shields.io/github/stars/DSaurus/DeepMultiCap.svg?style=social&label=Star)](https://github.com/DSaurus/DeepMultiCap)\
  ``[ICCV 2021] DeepMultiCap: Performance Capture of Multiple Characters Using Sparse Multiview Cameras``
 
++ **[HongwenZhang/PyMAF](https://github.com/HongwenZhang/PyMAF)**: [![GitHub stars](https://img.shields.io/github/stars/HongwenZhang/PyMAF.svg?style=social&label=Star)](https://github.com/HongwenZhang/PyMAF)\
+ ``[ICCV 2021] PyMAF: 3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop``
+
 + **[ZhengZerong/DeepImplicitTemplates](https://github.com/ZhengZerong/DeepImplicitTemplates)**: [![GitHub stars](https://img.shields.io/github/stars/ZhengZerong/DeepImplicitTemplates.svg?style=social&label=Star)](https://github.com/ZhengZerong/DeepImplicitTemplates)\
  ``[CVPR 2021] Deep Implicit Templates for 3D Shape Representation``
 
