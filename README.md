@@ -39,6 +39,9 @@
 + **[Dw1010/IntagHand](https://github.com/Dw1010/IntagHand)**: [![GitHub stars](https://img.shields.io/github/stars/Dw1010/IntagHand.svg?style=social&label=Star)](https://github.com/Dw1010/IntagHand)\
  ``[CVPR 2022] Interacting Attention Graph for Single Image Two-Hand Reconstruction``
 
++ **[LizhenWangT/FaceVerse](https://github.com/LizhenWangT/FaceVerse)**: [![GitHub stars](https://img.shields.io/github/stars/LizhenWangT/FaceVerse.svg?style=social&label=Star)](https://github.com/LizhenWangT/FaceVerse)\
+ ``[CVPR 2022] FaceVerse: a Fine-grained and Detail-controllable 3D Face Morphable Model from a Hybrid Dataset``
+
 + **[fengq1a0/FOF](https://github.com/fengq1a0/FOF)**: [![GitHub stars](https://img.shields.io/github/stars/fengq1a0/FOF.svg?style=social&label=Star)](https://github.com/fengq1a0/FOF)\
  ``[NeurIPS 2022] FOF: Learning Fourier Occupancy Field for Monocular Real-time Human Reconstruction``
 
@@ -56,6 +59,11 @@
 
 + **[ZhengZerong/DeepImplicitTemplates](https://github.com/ZhengZerong/DeepImplicitTemplates)**: [![GitHub stars](https://img.shields.io/github/stars/ZhengZerong/DeepImplicitTemplates.svg?style=social&label=Star)](https://github.com/ZhengZerong/DeepImplicitTemplates)\
  ``[CVPR 2021] Deep Implicit Templates for 3D Shape Representation``
+
+### 2020
+
++ **[LizhenWangT/NormalGAN](https://github.com/LizhenWangT/NormalGAN)**: [![GitHub stars](https://img.shields.io/github/stars/LizhenWangT/NormalGAN.svg?style=social&label=Star)](https://github.com/LizhenWangT/NormalGAN)\
+ ``[ECCV 2020] NormalGAN: Learning Detailed 3D Human from a Single RGB-D Image``
 
 ### 2019
 
