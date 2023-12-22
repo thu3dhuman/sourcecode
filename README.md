@@ -4,15 +4,6 @@
 + **[GPS-Gaussian(Coming Soon)](https://github.com/ShunyuanZheng/GPS-Gaussian)**: [![GitHub stars](https://img.shields.io/github/stars/ShunyuanZheng/GPS-Gaussian.svg?style=social&label=Star)](https://github.com/ShunyuanZheng/GPS-Gaussian)\
  ``[arXiv 2023] GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis``
 
-+ **[invertAvatar(Coming Soon)](https://github.com/XChenZ/invertAvatar)**: [![GitHub stars](https://img.shields.io/github/stars/XChenZ/invertAvatar.svg?style=social&label=Star)](https://github.com/XChenZ/invertAvatar)\
- ``[arXiv 2023] InvertAvatar: Incremental GAN Inversion for Generalized Head Avatars``
-
-+ **[Gaussian-Head-Avatar(Coming Soon)](https://github.com/YuelangX/Gaussian-Head-Avatar)**: [![GitHub stars](https://img.shields.io/github/stars/YuelangX/Gaussian-Head-Avatar.svg?style=social&label=Star)](https://github.com/YuelangX/Gaussian-Head-Avatar)\
- ``[arXiv 2023] Gaussian Head Avatar: Ultra High-fidelity Head Avatar via Dynamic Gaussians``
-
-+ **[AnimatableGaussians(Coming Soon)](https://github.com/lizhe00/AnimatableGaussians)**: [![GitHub stars](https://img.shields.io/github/stars/lizhe00/AnimatableGaussians.svg?style=social&label=Star)](https://github.com/lizhe00/AnimatableGaussians)\
- ``[arXiv 2023] Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling``
-
 + **[MrTornado24/DreamCraft3D](https://github.com/deepseek-ai/DreamCraft3D)**: [![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DreamCraft3D.svg?style=social&label=Star)](https://github.com/deepseek-ai/DreamCraft3D)\
  ``[arXiv 2023] DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior``
 
