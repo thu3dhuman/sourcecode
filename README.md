@@ -1,7 +1,5 @@
 
 ### 2023
-+ **[ShunyuanZheng/GPS-Gaussian](https://github.com/ShunyuanZheng/GPS-Gaussian)**: [![GitHub stars](/ShunyuanZheng/GPS-Gaussian.svg?style=social&label=Star)](https://github.com/ShunyuanZheng/GPS-Gaussian)\
- ``[arXiv 2023] GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis``
 
 + **[ShunyuanZheng/GPS-Gaussian](https://github.com/ShunyuanZheng/GPS-Gaussian)**: [![GitHub stars](https://img.shields.io/github/stars/ShunyuanZheng/GPS-Gaussian.svg?style=social&label=Star)](https://github.com/ShunyuanZheng/GPS-Gaussian)\
  ``[arXiv 2023] GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis``
