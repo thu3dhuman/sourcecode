@@ -45,6 +45,9 @@
 + **[lizhe00/AvatarCap](https://github.com/lizhe00/AvatarCap)**: [![GitHub stars](https://img.shields.io/github/stars/lizhe00/AvatarCap.svg?style=social&label=Star)](https://github.com/lizhe00/AvatarCap)\
  ``[ECCV 2022] AvatarCap: Animatable Avatar Conditioned Monocular Human Volumetric Capture``
 
++ **[MrTornado24/FENeRF](https://github.com/MrTornado24/FENeRF)**: [![GitHub stars](https://img.shields.io/github/stars/MrTornado24/FENeRF.svg?style=social&label=Star)](https://github.com/MrTornado24/FENeRF)\
+ ``[CVPR 2022] FENeRF: Face Editing in Neural Radiance Fields``
+
 + **[Dw1010/IntagHand](https://github.com/Dw1010/IntagHand)**: [![GitHub stars](https://img.shields.io/github/stars/Dw1010/IntagHand.svg?style=social&label=Star)](https://github.com/Dw1010/IntagHand)\
  ``[CVPR 2022] Interacting Attention Graph for Single Image Two-Hand Reconstruction``
 
