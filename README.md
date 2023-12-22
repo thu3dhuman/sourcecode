@@ -3,6 +3,9 @@
 + **[ShunyuanZheng/GPS-Gaussian](https://github.com/ShunyuanZheng/GPS-Gaussian)**: [![GitHub stars](https://img.shields.io/github/stars/ShunyuanZheng/GPS-Gaussian.svg?style=social&label=Star)](https://github.com/ShunyuanZheng/GPS-Gaussian)\
  ``[arXiv 2023] GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis``
 
++ **[ShunyuanZheng/GPS-Gaussian](https://github.com/ShunyuanZheng/GPS-Gaussian)**: [![GitHub stars](https://img.shields.io/github/stars/ShunyuanZheng/GPS-Gaussian.svg?style=social&label=Star)](https://github.com/ShunyuanZheng/GPS-Gaussian)\
+ ``[arXiv 2023] GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis``
+
 + **[XChenZ/invertAvatar](https://github.com/XChenZ/invertAvatar)**: [![GitHub stars](https://img.shields.io/github/stars/XChenZ/invertAvatar.svg?style=social&label=Star)](https://github.com/XChenZ/invertAvatar)\
  ``[arXiv 2023] InvertAvatar: Incremental GAN Inversion for Generalized Head Avatars``
 
