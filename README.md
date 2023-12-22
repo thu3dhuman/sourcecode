@@ -6,6 +6,9 @@
 + **[YuelangX/Gaussian-Head-Avatar](https://github.com/YuelangX/Gaussian-Head-Avatar)**: [![GitHub stars](https://img.shields.io/github/stars/YuelangX/Gaussian-Head-Avatar.svg?style=social&label=Star)](https://github.com/YuelangX/Gaussian-Head-Avatar)\
  ``[arXiv 2023] Gaussian Head Avatar: Ultra High-fidelity Head Avatar via Dynamic Gaussians``
 
++ **[lizhe00/AnimatableGaussians](https://github.com/lizhe00/AnimatableGaussians)**: [![GitHub stars](https://img.shields.io/github/stars/lizhe00/AnimatableGaussians.svg?style=social&label=Star)](https://github.com/lizhe00/AnimatableGaussians)\
+ ``[arXiv 2023] Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling``
+
 + **[MrTornado24/DreamCraft3D](https://github.com/deepseek-ai/DreamCraft3D)**: [![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DreamCraft3D.svg?style=social&label=Star)](https://github.com/deepseek-ai/DreamCraft3D)\
  ``[arXiv 2023] DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior``
 
@@ -20,6 +23,9 @@
 
 + **[LizhenWangT/StyleAvatar](https://github.com/LizhenWangT/StyleAvatar)**: [![GitHub stars](https://img.shields.io/github/stars/LizhenWangT/StyleAvatar.svg?style=social&label=Star)](https://github.com/LizhenWangT/StyleAvatar)\
  ``[SIGGRAPH 2023] StyleAvatar: Real-time Photo-realistic Portrait Avatar from a Single Video``
+
++ **[lizhe00/PoseVocab](https://github.com/lizhe00/PoseVocab)**: [![GitHub stars](https://img.shields.io/github/stars/lizhe00/PoseVocab.svg?style=social&label=Star)](https://github.com/lizhe00/PoseVocab)\
+ ``[SIGGRAPH 2023] PoseVocab: Learning Joint-structured Pose Embeddings for Human Avatar Modeling``
 
 + **[DSaurus/Tensor4D](https://github.com/DSaurus/Tensor4D)**: [![GitHub stars](https://img.shields.io/github/stars/DSaurus/Tensor4D.svg?style=social&label=Star)](https://github.com/DSaurus/Tensor4D)\
  ``[CVPR 2023] Tensor4D: Efficient Neural 4D Decomposition for High-fidelity Dynamic Reconstruction and Rendering``
@@ -40,6 +46,9 @@
 
 + **[jsnln/fite](https://github.com/jsnln/fite)**: [![GitHub stars](https://img.shields.io/github/stars/jsnln/fite.svg?style=social&label=Star)](https://github.com/jsnln/fite)\
  ``[ECCV 2022] Learning Implicit Templates for Point-Based Clothed Human Modeling``
+
++ **[lizhe00/AvatarCap](https://github.com/lizhe00/AvatarCap)**: [![GitHub stars](https://img.shields.io/github/stars/lizhe00/AvatarCap.svg?style=social&label=Star)](https://github.com/lizhe00/AvatarCap)\
+ ``[ECCV 2022] AvatarCap: Animatable Avatar Conditioned Monocular Human Volumetric Capture``
 
 + **[Dw1010/IntagHand](https://github.com/Dw1010/IntagHand)**: [![GitHub stars](https://img.shields.io/github/stars/Dw1010/IntagHand.svg?style=social&label=Star)](https://github.com/Dw1010/IntagHand)\
  ``[CVPR 2022] Interacting Attention Graph for Single Image Two-Hand Reconstruction``
