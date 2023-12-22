@@ -65,6 +65,9 @@
 + **[LizhenWangT/NormalGAN](https://github.com/LizhenWangT/NormalGAN)**: [![GitHub stars](https://img.shields.io/github/stars/LizhenWangT/NormalGAN.svg?style=social&label=Star)](https://github.com/LizhenWangT/NormalGAN)\
  ``[ECCV 2020] NormalGAN: Learning Detailed 3D Human from a Single RGB-D Image``
 
++ **[zhangyux15/4d_association](https://github.com/zhangyux15/4d_association)**: [![GitHub stars](https://img.shields.io/github/stars/zhangyux15/4d_association.svg?style=social&label=Star)](https://github.com/zhangyux15/4d_association)\
+ ``[CVPR 2020] 4D Association Graph for Realtime Multi-person Motion Capture Using Multiple Video Cameras``
+
 ### 2019
 
 + **[ZhengZerong/DeepHuman](https://github.com/ZhengZerong/DeepHuman)**: [![GitHub stars](https://img.shields.io/github/stars/ZhengZerong/DeepHuman.svg?style=social&label=Star)](https://github.com/ZhengZerong/DeepHuman)\
