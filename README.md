@@ -1,5 +1,7 @@
 
 ### 2023
++ **[xhuangcv/humannorm](https://github.com/xhuangcv/humannorm)**: [![GitHub stars](https://github.com/xhuangcv/humannorm.svg?style=social&label=Star)](https://github.com/xhuangcv/humannorm)\
+ ``[arXiv 2023] HumanNorm: Learning Normal Diffusion Model for High-quality and Realistic 3D Human Generation``
 
 + **[ShunyuanZheng/GPS-Gaussian](https://github.com/ShunyuanZheng/GPS-Gaussian)**: [![GitHub stars](https://img.shields.io/github/stars/ShunyuanZheng/GPS-Gaussian.svg?style=social&label=Star)](https://github.com/ShunyuanZheng/GPS-Gaussian)\
  ``[arXiv 2023] GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis``
