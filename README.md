@@ -1,5 +1,8 @@
 
 ### 2023
++ **[huliangxiao/GaussianAvatar](https://github.com/huliangxiao/GaussianAvatar)**: [![GitHub stars](https://img.shields.io/github/stars/huliangxiao/GaussianAvatar.svg?style=social&label=Star)](https://github.com/huliangxiao/GaussianAvatar)\
+ ``[arXiv 2023] GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians``
+
 + **[xhuangcv/humannorm](https://github.com/xhuangcv/humannorm)**: [![GitHub stars](https://img.shields.io/github/stars/xhuangcv/humannorm.svg?style=social&label=Star)](https://github.com/xhuangcv/humannorm)\
  ``[arXiv 2023] HumanNorm: Learning Normal Diffusion Model for High-quality and Realistic 3D Human Generation``
 
