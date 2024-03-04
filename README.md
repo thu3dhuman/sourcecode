@@ -1,5 +1,5 @@
 
-### 2023
+### 2024
 + **[huliangxiao/GaussianAvatar](https://github.com/huliangxiao/GaussianAvatar)**: [![GitHub stars](https://img.shields.io/github/stars/huliangxiao/GaussianAvatar.svg?style=social&label=Star)](https://github.com/huliangxiao/GaussianAvatar)\
  ``[CVPR 2024] GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians``
 
@@ -12,6 +12,7 @@
 + **[MrTornado24/DreamCraft3D](https://github.com/deepseek-ai/DreamCraft3D)**: [![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DreamCraft3D.svg?style=social&label=Star)](https://github.com/deepseek-ai/DreamCraft3D)\
  ``[ICLR 2024] DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior``
 
+### 2023
 + **[XChenZ/havatar](https://github.com/XChenZ/havatar)**: [![GitHub stars](https://img.shields.io/github/stars/XChenZ/havatar.svg?style=social&label=Star)](https://github.com/XChenZ/havatar)\
  ``[TOG 2023] HAvatar: High-fidelity Head Avatar via Facial Model ConditionedNeural Radiance Field``
 
