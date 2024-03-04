@@ -1,16 +1,16 @@
 
 ### 2023
 + **[huliangxiao/GaussianAvatar](https://github.com/huliangxiao/GaussianAvatar)**: [![GitHub stars](https://img.shields.io/github/stars/huliangxiao/GaussianAvatar.svg?style=social&label=Star)](https://github.com/huliangxiao/GaussianAvatar)\
- ``[arXiv 2023] GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians``
+ ``[CVPR 2024] GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians``
 
 + **[xhuangcv/humannorm](https://github.com/xhuangcv/humannorm)**: [![GitHub stars](https://img.shields.io/github/stars/xhuangcv/humannorm.svg?style=social&label=Star)](https://github.com/xhuangcv/humannorm)\
- ``[arXiv 2023] HumanNorm: Learning Normal Diffusion Model for High-quality and Realistic 3D Human Generation``
+ ``[CVPR 2024] HumanNorm: Learning Normal Diffusion Model for High-quality and Realistic 3D Human Generation``
 
 + **[ShunyuanZheng/GPS-Gaussian](https://github.com/ShunyuanZheng/GPS-Gaussian)**: [![GitHub stars](https://img.shields.io/github/stars/ShunyuanZheng/GPS-Gaussian.svg?style=social&label=Star)](https://github.com/ShunyuanZheng/GPS-Gaussian)\
- ``[arXiv 2023] GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis``
+ ``[CVPR 2024] GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis``
 
 + **[MrTornado24/DreamCraft3D](https://github.com/deepseek-ai/DreamCraft3D)**: [![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DreamCraft3D.svg?style=social&label=Star)](https://github.com/deepseek-ai/DreamCraft3D)\
- ``[arXiv 2023] DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior``
+ ``[ICLR 2024] DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior``
 
 + **[XChenZ/havatar](https://github.com/XChenZ/havatar)**: [![GitHub stars](https://img.shields.io/github/stars/XChenZ/havatar.svg?style=social&label=Star)](https://github.com/XChenZ/havatar)\
  ``[TOG 2023] HAvatar: High-fidelity Head Avatar via Facial Model ConditionedNeural Radiance Field``
