@@ -1,5 +1,8 @@
 
 ### 2024
++ **[YuelangX/Gaussian-Head-Avatar](https://github.com/YuelangX/Gaussian-Head-Avatar)**: [![GitHub stars](https://img.shields.io/github/stars/YuelangX/Gaussian-Head-Avatar.svg?style=social&label=Star)](https://github.com/YuelangX/Gaussian-Head-Avatar)\
+ ``[CVPR 2024] Gaussian Head Avatar: Ultra High-fidelity Head Avatar via Dynamic Gaussians``
+
 + **[lizhe00/AnimatableGaussians](https://github.com/lizhe00/AnimatableGaussians)**: [![GitHub stars](https://img.shields.io/github/stars/lizhe00/AnimatableGaussians.svg?style=social&label=Star)](https://github.com/lizhe00/AnimatableGaussians)\
  ``[CVPR 2024] Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling``
 
